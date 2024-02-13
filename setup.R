@@ -32,7 +32,7 @@ use_github(
 
 use_github(organisation = NULL, 
            private = FALSE, 
-           protocol = "ssh", 
-           credentials = "git@github.com:annie-npv/portfolio.git", 
-           auth_token = "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", 
+           protocol = "https", 
+           credentials = NULL, 
+           auth_token = "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", 
            host = NULL)
