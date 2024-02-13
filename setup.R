@@ -12,4 +12,20 @@ new_portfolio_site(
 )
 
 serve_site()
+library(devtools) ## or library(usethis)
+use_devtools()
 
+library(usethis) ## or library(devtools)
+use_git_config(user.name = "annie-npv", user.email = "nghi.npv@gmail.com")
+
+# check by running a git situation-report: 
+#   - your user.name and user.email should appear in global Git config 
+git_sitrep()
+
+use_github(
+  organisation = NULL,
+  private = FALSE,
+  visibility = "private",
+  protocol = "ssh",
+  host = "https://github.com/annie-npv/portfolio"
+)
