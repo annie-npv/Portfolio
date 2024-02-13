@@ -29,3 +29,10 @@ use_github(
   protocol = "ssh",
   host = "https://github.com/annie-npv/portfolio"
 )
+
+use_github(organisation = NULL, 
+           private = FALSE, 
+           protocol = "ssh", 
+           credentials = "git@github.com:annie-npv/portfolio.git", 
+           auth_token = "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", 
+           host = NULL)
