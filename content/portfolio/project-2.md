@@ -1,21 +1,18 @@
 ---
-categories:
-- web apps
-- products
-date: "2023-05-15T12:14:34+06:00"
-description: Lego Sets Recommendation Application.
+title: "Product Price Recommendation"
+date: 2019-05-12T12:14:34+06:00
+image: "images/portfolio/app_cannondale_price_prediction.jpg"
+project_url: "[View Dashboard](https://business-science.shinyapps.io/cannondale_price_prediction_app/)"
+github_url: NA
+categories: ["web apps","products"]
+description: "Product Price Recommendation Application."
 draft: false
-github_url: https://github.com/annie-npv/lego_explorer
-image: images/portfolio/lego_database.png
-project_url: '[View Dashboard](https://annie-nguyen.shinyapps.io/Lego_Explore_App/)'
-title: Lego Sets Recommendation Application
 ---
 
 
 #### Project Details
 
-Embark on an exciting journey through the world of LEGO with our interactive exploration tool. Whether you're curious about LEGO themes, interested in tracking the evolution of LEGO sets over the years, or eager to discover the most common LEGO parts, this app provides you with the tools to delve into the fascinating universe of LEGO bricks.
-
+This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in the [5-Course R-Track System](https://university.business-science.io/p/5-course-bundle-machine-learning-web-apps-time-series).
 
 #### Project Requirements
 
@@ -23,4 +20,4 @@ Embark on an exciting journey through the world of LEGO with our interactive exp
 
 ✅ HTML and CSS
 
-✅ GGplot Visualization
+✅ Product Gap Analysis using Machine Learning (XGBoost)

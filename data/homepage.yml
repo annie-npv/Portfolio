@@ -1,36 +1,40 @@
 # banner
 banner:
-  title: "Hi! I’m <br> Annie Nguyen <br> <small>Data Analyst, Actuary and Student</small>"
+  title: "Hi! I’m <br> Matt <br> <small>Data Scientist, Trainer & Mentor</small>"
   button:
     enable: true
-    label: "Contact Annie"
+    label: "Contact Matt"
     icon: 'ti-email'
-    URL: "mailto: nghi.npv@gmail.com"
+    URL: "mailto:your-email@gmail.com"
   
 # contact 
 contact:
   enable: true
-  title: 'Contact Annie'
-  contact_image: "images/about/IMG_1667.jpg"
+  title: 'Contact Matt'
+  contact_image: "images/about/user-picture-2.jpg"
   email:
     title: "Email"
-    email: "nghi.npv@gmail.com"
+    email: "your-email@gmail.com"
   button:
-    label: "Contact Annie"
+    label: "Contact Matt"
     icon: 'ti-email'
-    URL: "mailto: nghi.npv@gmail.com"
+    URL: "mailto:your-email@gmail.com"
 
 # about
 about:
   enable : true
   content : 
     <p class="lead">
-    <strong>Welcome to my portfolio! I'm Annie Nguyen, a data enthusiast on a mission to unravel insights and create impact through analytics. With a solid background in Data Science and Statistics, coupled with practical experience in research and teaching, I thrive on solving complex problems using data-driven approaches.
+    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
+    or building software, I enjoy vacationing with my family and friends. 
     </p>
     <p class="lead">
-    <strong>From optimizing malaria clinical records to visualizing global cancer trends, my projects showcase my dedication to leveraging data for meaningful outcomes. Outside of data science, you'll find me building Lego models, playing solitaire, and enjoying a game of badminton.
+    <strong>My area of focus</strong> is applying data science to business. 
+    I create value for companies by understanding the financial
+    cost of problems and delivering a return-on-investment with my solutions. 
+    I enjoy learning, working with stakeholders, and making better decisions with data.
     </p>
-  author_image: "images/about/IMG_1667.jpg"
+  author_image: "images/about/user-picture-2.jpg"
   button:
     enable : true
     label : "know more"
@@ -40,7 +44,7 @@ about:
 portfolio:
   enable : true
   title : "Data Science Portfolio"
-  item_show : 5
+  item_show : 2
   item_width_lg: 6
   # portfolio item comes from 'data/portfolio.yml' item.
 
@@ -50,41 +54,50 @@ portfolio:
 experience:
   enable : true
   title : "Experience"
-  description: "<p class='lead'>With a diverse background spanning various industries and global markets, I bring extensive experience in designing and developing data-driven solutions to drive business success. My expertise lies in leveraging advanced analytics, data visualization and data science methodologies to enhance profitability and elevate the customer experience.</p>"
+  description: "<p class='lead'>Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience.</p>"
   button:
     icon: "ti-linkedin"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/nghi-annie-nguyen/"
+    URL: "https://www.linkedin.com/"
   button2:
     icon: "ti-file"
     btnText: "Download My Resume"
-    URL: "/cv/ANNIE_NGUYEN_RESUME.pdf"
+    URL: "/cv/resume-matt.pdf"
   
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Computer Science Department Teaching Assistant"
-      company : "Miami University"
-      duration : "Jan 2024 - Present"
+      title : "Founder & Lead Data Science Instructor"
+      company : "Business Science"
+      duration : "Sept 2018 - Present"
       
     - logo : "images/experience/icon-2.png"
-      title : "Research Assistant Intern"
-      company : "Oxford University Clinical Research Unit"
-      duration : "May 2023 - Aug 2023"
+      title : "Director of Product Engineering & Market Development"
+      company : "Bonney Forge"
+      duration : "Jan 2017 - Aug 2018"
       
-    - logo : "images/experience/icon-3.png"
-      title : "Research Assistant"
-      company : "Lee Lab - Miami University"
-      duration : "Mar 2022 - Feb 2024"
+    - logo : "images/experience/icon-1.png"
+      title : "Manager of Sales Engineering"
+      company : "Bonney Forge"
+      duration : "Mar 2014 - Jan 2017"
 
 # education
 education:
   enable : true
   title : "Education"
   item:
-    - title : "Bachelor of Data Science and Statistics"
-      year : "Expected 2025"
-      academy : "Miami University"
+    - title : "Master of Business Administration (MBA)"
+      year : "2015"
+      academy : "Penn State University"
+      
+    - title : "Master of Industrial Engineering"
+      year : "2010"
+      academy : "University of Pittsburgh"
+      
+    - title : "Bachelor of Mechanical Engineering"
+      year : "2006"
+      academy : "Penn State University"
 
+      
 # skill
 skill:
   enable : true
@@ -93,20 +106,16 @@ skill:
     - title : "R"
       progress : "90%"
       color : "#fdb157"
-
+      
     - title : "Python"
       progress : "70%"
       color : "#9473e6"
-
-    - title : "Tableau"
-      progress : "60%"
-      color : "#adc927"
       
-    - title : "Excel"
-      progress : "60%"
+    - title : "Spark"
+      progress : "50%"
       color : "#18bc9c"
       
-    - title : "SQL"
+    - title : "Web Apps"
       progress : "70%"
       color : "#ffbcaa"
 
@@ -130,6 +139,61 @@ service:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
+
+
+# testimonial
+testimonial:
+  enable : true
+  title : "References"
+  item:
+    - name : "Justin Kurland, PhD"
+      image : "images/testimonial/justin.jpg"
+      designation : "Lead Data Scientist, Northwestern Mutual"
+      content : "<p class='lead text-white'><em>In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!</em></p>"
+      
+    - name : "Chris Selig"
+      image : "images/testimonial/chris.jpg"
+      designation : "Data Scientist"
+      content : "<p class='lead text-white'><em>Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview.</em></p>"
+        
+    - name : "Mohana Krishna Chittoor"
+      image : "images/testimonial/mohana.jpg"
+      designation : "Lead Data Scientist, Money View"
+      content : "<p class='lead text-white'><em>After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want.</em></p>"
+      
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
 
 # blog
 blog:

@@ -1,20 +1,18 @@
 ---
-categories:
-- web apps
-- health informatics
-date: "2023-05-15T12:14:34+06:00"
-description: Health Vitality Forecast Application.
+title: "Sales Demand Forecast Application"
+date: 2019-05-12T12:14:34+06:00
+image: "images/portfolio/app_sales_demand_forecast.jpg"
+project_url: "[View Dashboard](https://business-science.shinyapps.io/sales_dashboard_demand_forecast/)"
+github_url: NA
+categories: ["web apps","sales"]
+description: "Sales Demand Forecast Application."
 draft: false
-github_url: "https://github.com/annie-npv/health_vitality"
-image: images/portfolio/health_vitality.png
-project_url: '[View Dashboard](https://annie-nguyen.shinyapps.io/Health_Vitality_App/)'
-title: Health Vitality Forecast Application
 ---
 
 
 #### Project Details
 
-The Health Vitality App is your comprehensive tool for gaining insights into various aspects of health and well-being. Whether you're curious about your likelihood of experiencing a stroke, want to understand your body fat percentage, explore cancer mortality rates worldwide, delve into suicide rates across different countries, or examine life expectancy trends, this app has you covered.
+This application helps Marketing & Sales identify trends in product demand. The application is built in the [5-Course R-Track System](https://university.business-science.io/p/5-course-bundle-machine-learning-web-apps-time-series).
 
 #### Project Requirements
 
@@ -22,4 +20,6 @@ The Health Vitality App is your comprehensive tool for gaining insights into var
 
 ✅ HTML and CSS
 
-✅ GGplot Visualization
+✅ Sales Demand Forecast using Machine Learning (XGBoost)
+
+✅ Geograhic Visualization
