@@ -7,7 +7,7 @@ description: Lego Sets Recommendation Application.
 draft: false
 github_url: https://github.com/annie-npv/lego_explorer
 image: images/portfolio/lego_database.png
-project_url: '[View Dashboard](https://business-science.shinyapps.io/cannondale_price_prediction_app/)'
+project_url: '[View Dashboard](https://annie-nguyen.shinyapps.io/Lego_Explore_App/)'
 title: Lego Sets Recommendation Application
 ---
 

@@ -13,4 +13,5 @@ new_portfolio_site(
 
 serve_site()
 
+usethis::use_git()
 usethis::use_github()
