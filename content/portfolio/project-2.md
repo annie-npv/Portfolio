@@ -1,23 +1,15 @@
 ---
-title: "Product Price Recommendation"
+title: "Health Vitality Application"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/app_cannondale_price_prediction.jpg"
-project_url: "[View Dashboard](https://business-science.shinyapps.io/cannondale_price_prediction_app/)"
-github_url: NA
-categories: ["web apps","products"]
-description: "Product Price Recommendation Application."
+image: "images/portfolio/health_vitality.png"
+project_url: "[View Dashboard](https://annie-nguyen.shinyapps.io/Health_Vitality_App/)"
+github_url: "https://github.com/annie-npv/health_vitality"
+categories: ["web apps"]
+description: "Health Vitality Application."
 draft: false
 ---
 
 
 #### Project Details
 
-This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in the [5-Course R-Track System](https://university.business-science.io/p/5-course-bundle-machine-learning-web-apps-time-series).
-
-#### Project Requirements
-
-✅ Shiny Web Applications
-
-✅ HTML and CSS
-
-✅ Product Gap Analysis using Machine Learning (XGBoost)
+The Health Vitality App is your comprehensive tool for gaining insights into various aspects of health and well-being. Whether you're curious about your likelihood of experiencing a stroke, want to understand your body fat percentage, explore cancer mortality rates worldwide, delve into suicide rates across different countries, or examine life expectancy trends, this app has you covered.

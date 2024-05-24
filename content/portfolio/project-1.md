@@ -1,25 +1,15 @@
 ---
-title: "Sales Demand Forecast Application"
+title: "Lego Exploring Application"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/app_sales_demand_forecast.jpg"
-project_url: "[View Dashboard](https://business-science.shinyapps.io/sales_dashboard_demand_forecast/)"
-github_url: NA
-categories: ["web apps","sales"]
-description: "Sales Demand Forecast Application."
+image: "images/portfolio/lego_database.png"
+project_url: "[View Dashboard](https://annie-nguyen.shinyapps.io/Lego_Explore_App/)"
+github_url: "https://github.com/annie-npv/lego_explorer"
+categories: ["web apps"]
+description: "Lego Exploring Application"
 draft: false
 ---
 
 
 #### Project Details
 
-This application helps Marketing & Sales identify trends in product demand. The application is built in the [5-Course R-Track System](https://university.business-science.io/p/5-course-bundle-machine-learning-web-apps-time-series).
-
-#### Project Requirements
-
-✅ Shiny Web Applications
-
-✅ HTML and CSS
-
-✅ Sales Demand Forecast using Machine Learning (XGBoost)
-
-✅ Geograhic Visualization
+"Exploring the Legos!" is an interactive app for LEGO enthusiasts to delve into various aspects of the LEGO universe. Users can explore themes, analyze color distribution over the years, examine the most common LEGO parts, and see what can be built with specific pieces. The app offers dynamic visualizations and interactive features, making it a comprehensive tool for discovering insights and trends in the world of LEGO.
