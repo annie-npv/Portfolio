@@ -3,7 +3,7 @@ title: "MovieTag Summarizer"
 date: "2023-03-15T12:14:34+06:00"
 image: "images/portfolio/movie.png"
 github_url: https://github.com/annie-npv/MovieTag_Summarizer
-categories: ["Services"]
+categories: ["services"]
 description: "MovieTag Summarizer"
 draft: false
 ---
