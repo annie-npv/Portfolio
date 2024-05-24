@@ -1,6 +1,6 @@
 # banner
 banner:
-  title: "Hi! I’m <br> Annie Nguyen <br> <small>Data Analyst, Actuary and Student</small>"
+  title: "Hi! I’m <br> Annie Nguyen <br> <small>Data Analyst, Actuary, and Student</small>"
   button:
     enable: true
     label: "Contact Annie"
