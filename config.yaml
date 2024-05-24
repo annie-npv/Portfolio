@@ -4,7 +4,6 @@ summaryLength: '10'
 theme: kross-hugo-data-science
 title: Annie Nguyen
 params:
-  author: Annie Nguyen
   baidu_analytics_id: ''
   baidu_site_verification: ''
   contact:

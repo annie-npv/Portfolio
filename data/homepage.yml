@@ -3,20 +3,19 @@ banner:
   title: "Hi! I’m <br> Annie Nguyen <br> <small>Data Analyst, Actuary, and Student</small>"
   button:
     enable: true
-    label: "Contact Annie"
+    label: "Contact me"
     icon: 'ti-email'
     URL: "mailto: nghi.npv@gmail.com"
   
 # contact 
 contact:
   enable: true
-  title: 'Contact Annie'
   contact_image: "images/about/IMG_1667.jpg"
   email:
     title: "Email"
     email: "nghi.npv@gmail.com"
   button:
-    label: "Contact Annie"
+    label: "Contact me"
     icon: 'ti-email'
     URL: "mailto: nghi.npv@gmail.com"
 
@@ -25,7 +24,7 @@ about:
   enable : true
   content : 
     <p class="lead">
-    <strong>Welcome to my portfolio!</strong> I'm Annie Nguyen, a data enthusiast on a mission to unravel 
+    <strong>Welcome to my portfolio!</strong> I'm a data enthusiast on a mission to unravel 
     insights and create impact through analytics. 
     </p>
     <p class="lead">
