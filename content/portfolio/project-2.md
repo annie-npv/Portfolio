@@ -1,7 +1,7 @@
 ---
 title: "Health Vitality Application"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/health_vitality.png"
+image: "images/portfolio/health.png"
 project_url: "[View Dashboard](https://annie-nguyen.shinyapps.io/Health_Vitality_App/)"
 github_url: "https://github.com/annie-npv/health_vitality"
 categories: ["web apps"]

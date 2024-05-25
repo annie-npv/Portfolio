@@ -1,7 +1,7 @@
 ---
 title: "Lego Exploring Application"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/lego_database.png"
+image: "images/portfolio/lego.png"
 project_url: "[View Dashboard](https://annie-nguyen.shinyapps.io/Lego_Explore_App/)"
 github_url: "https://github.com/annie-npv/lego_explorer"
 categories: ["web apps"]
