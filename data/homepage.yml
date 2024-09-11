@@ -1,6 +1,6 @@
 # banner
 banner:
-  title: "Hi! I’m <br> Annie Nguyen <br> <small>Data Analyst, Actuary, and Student</small>"
+  title: "Hi! I’m <br> Annie Nguyen <br> <small>Data Analyst/Scientist, and Student</small>"
   button:
     enable: true
     label: "Contact me"
@@ -71,7 +71,7 @@ experience:
     - logo : "images/experience/icon-1.png"
       title : "Data Science Co-op/Intern"
       company : "Medical Mutual of Ohio"
-      duration : "May 2024 - Present"
+      duration : "May 2024 - Aug 2024"
       
     - logo : "images/experience/icon-2.png"
       title : "Research Assistant Intern"
