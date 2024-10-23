@@ -5,7 +5,7 @@ categories:
 date: "2023-03-15T12:14:34+06:00"
 description: Materials Tracking Access Database
 draft: false
-image: images/portfolio/inventory-tech.png
+image: images/portfolio/inventory.png
 title:  Materials Tracking Access Database
 ---
 
